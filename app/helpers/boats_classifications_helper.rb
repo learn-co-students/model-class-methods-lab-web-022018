@@ -1,0 +1,2 @@
+module BoatsClassificationsHelper
+end
